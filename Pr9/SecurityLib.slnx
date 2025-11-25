@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SecurityLib.Tests/SecurityLib.Tests.csproj" />
+  <Project Path="SecurityLib.csproj" Id="a11fa37d-065a-4760-8417-6769c1bab4d8" />
+</Solution>

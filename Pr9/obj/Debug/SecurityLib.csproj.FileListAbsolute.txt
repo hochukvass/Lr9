@@ -1,0 +1,6 @@
+D:\Загрузки_D\Чё то там практики\Практики прилепская\SecurityLib-master\bin\Debug\SecurityLib.dll
+D:\Загрузки_D\Чё то там практики\Практики прилепская\SecurityLib-master\bin\Debug\SecurityLib.pdb
+D:\Загрузки_D\Чё то там практики\Практики прилепская\SecurityLib-master\obj\Debug\SecurityLib.csproj.AssemblyReference.cache
+D:\Загрузки_D\Чё то там практики\Практики прилепская\SecurityLib-master\obj\Debug\SecurityLib.csproj.CoreCompileInputs.cache
+D:\Загрузки_D\Чё то там практики\Практики прилепская\SecurityLib-master\obj\Debug\SecurityLib.dll
+D:\Загрузки_D\Чё то там практики\Практики прилепская\SecurityLib-master\obj\Debug\SecurityLib.pdb
